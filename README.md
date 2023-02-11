@@ -1,0 +1,1 @@
+![Rozwiazanie](Rozwiazanie.png)
